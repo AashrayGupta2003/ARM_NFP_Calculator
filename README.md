@@ -1,5 +1,5 @@
 # ARM_NFP_Calculator
-Addition and Multiplication of New-Floating Point numbers (not in IEEE754) using Assembly-ARM-SIM
+Addition and Multiplication of New-Floating Point numbers (not in IEEE-754) using Assembly-ARM-SIM
 
 ## Problem Statement and Solution
 Let us define our customized floating point number system (called **NFP** => New Floating-Point number) in **32 bits** as follows:
